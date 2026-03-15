@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: aathekesavan/cicd-demo
+ IMAGE_NAME: aathe/cicd-demo
 
 jobs:
 
