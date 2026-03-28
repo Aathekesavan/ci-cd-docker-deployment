@@ -22,3 +22,5 @@ ci-cd-docker-deployment
 ## Pipeline Flow
 
 Developer Push → GitHub Actions → Build Docker Image → Push to DockerHub → Deploy to EC2
+
+
